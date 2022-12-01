@@ -22,7 +22,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Breton, Catalan, Chiga, Colognian
 
 ## Acknowledgements
 
-Designed by Rodrigo Fuenzalida with direction from Jordan Egstad, JD Hooge, and Jack De Caluwé on behalf of Instrument.
+Designed by [Rodrigo Fuenzalida](https://rfuenzalida.com) with direction from [Jordan Egstad](https://egstad.com), [JD Hooge](http://jdhooge.com/), and [Jack De Caluwé](https://jackdecaluwe.com/) on behalf of [Instrument](https://instrument.com).
 
 ## License
 
