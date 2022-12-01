@@ -1,10 +1,10 @@
 # Instrument Serif
 
-> An display serif designed for the [Instrument](https://instrument.com) brand, and open-sourced for you.
+> A condensed, display serif designed for the [Instrument](https://instrument.com) brand, and open-sourced for you.
 
 ![Drag Racing](./docs/1-header.gif)
 
-Instrument serif is designed for large sizes and offers a contemporary take on some of our favorite oldstyle serifs.
+Instrument serif is designed for large sizes and offers a contemporary take on some of our favorite old style serifs.
 
 ## Building the fonts
 
