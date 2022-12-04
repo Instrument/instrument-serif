@@ -18,7 +18,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Breton, Catalan, Chiga, Colognian
 
 ## Changelog
 
-[TBD]
+12.05.2022 Upload of the first files for Google Revision
 
 ## Acknowledgements
 
