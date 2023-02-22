@@ -1,12 +1,6 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
-axes = (
-{
-name = Weight;
-tag = wght;
-}
-);
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -172,9 +166,6 @@ tag = ss01;
 );
 fontMaster = (
 {
-axesValues = (
-400
-);
 customParameters = (
 {
 name = typoAscender;
@@ -15923,9 +15914,31 @@ width = 395;
 glyphname = f_b;
 kernLeft = f;
 kernRight = o;
-lastChange = "2022-08-31 18:58:21 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (179,0);
+},
+{
+name = bottom_2;
+pos = (537,0);
+},
+{
+name = caret_1;
+pos = (358,0);
+},
+{
+name = top_1;
+pos = (179,740);
+},
+{
+name = top_2;
+pos = (537,740);
+}
+);
 background = {
 shapes = (
 {
@@ -16209,9 +16222,19 @@ metricRight = b;
 },
 {
 glyphname = f_f_i;
-lastChange = "2022-09-19 13:38:42 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (242.333,0);
+},
+{
+name = caret_2;
+pos = (484.667,0);
+}
+);
 background = {
 shapes = (
 {
@@ -16533,9 +16556,19 @@ metricRight = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2022-09-19 13:43:37 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (243.667,0);
+},
+{
+name = caret_2;
+pos = (487.333,0);
+}
+);
 background = {
 shapes = (
 {
@@ -16867,9 +16900,31 @@ metricRight = l;
 glyphname = f_h;
 kernLeft = f;
 kernRight = n;
-lastChange = "2022-08-31 18:59:58 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (183,0);
+},
+{
+name = bottom_2;
+pos = (548,0);
+},
+{
+name = caret_1;
+pos = (365.5,0);
+},
+{
+name = top_1;
+pos = (183,740);
+},
+{
+name = top_2;
+pos = (548,740);
+}
+);
 background = {
 shapes = (
 {
@@ -17185,9 +17240,31 @@ metricRight = h;
 glyphname = f_i;
 kernLeft = f;
 kernRight = i;
-lastChange = "2022-08-31 19:04:19 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (119,0);
+},
+{
+name = bottom_2;
+pos = (358,0);
+},
+{
+name = caret_1;
+pos = (238.5,0);
+},
+{
+name = top_1;
+pos = (119,740);
+},
+{
+name = top_2;
+pos = (358,740);
+}
+);
 background = {
 shapes = (
 {
@@ -17436,9 +17513,31 @@ metricRight = i;
 glyphname = f_l;
 kernLeft = f;
 kernRight = l;
-lastChange = "2022-08-31 19:01:24 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (120,0);
+},
+{
+name = bottom_2;
+pos = (361,0);
+},
+{
+name = caret_1;
+pos = (240.5,0);
+},
+{
+name = top_1;
+pos = (120,740);
+},
+{
+name = top_2;
+pos = (361,740);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -17551,9 +17650,31 @@ metricRight = l;
 },
 {
 glyphname = q_j;
-lastChange = "2022-08-25 20:43:21 +0000";
+lastChange = "2023-02-22 10:41:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (164,0);
+},
+{
+name = bottom_2;
+pos = (493,0);
+},
+{
+name = caret_1;
+pos = (328.5,0);
+},
+{
+name = top_1;
+pos = (164,510);
+},
+{
+name = top_2;
+pos = (493,510);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -24724,9 +24845,6 @@ unicode = 731;
 );
 instances = (
 {
-axesValues = (
-400
-);
 instanceInterpolations = {
 m01 = 1;
 };

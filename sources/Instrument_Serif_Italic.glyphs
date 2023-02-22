@@ -1,12 +1,6 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
-axes = (
-{
-name = Weight;
-tag = wght;
-}
-);
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -172,9 +166,6 @@ tag = ss01;
 );
 fontMaster = (
 {
-axesValues = (
-400
-);
 customParameters = (
 {
 name = typoAscender;
@@ -276,7 +267,7 @@ over = -16;
 pos = 13;
 }
 );
-name = "Regular Italic";
+name = Italic;
 stemValues = (
 24,
 30,
@@ -15848,9 +15839,31 @@ width = 401;
 glyphname = f_b;
 kernLeft = f;
 kernRight = o;
-lastChange = "2022-08-31 18:58:21 +0000";
+lastChange = "2023-02-22 10:42:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (110,0);
+},
+{
+name = bottom_2;
+pos = (447,0);
+},
+{
+name = caret_1;
+pos = (337,0);
+},
+{
+name = top_1;
+pos = (281,740);
+},
+{
+name = top_2;
+pos = (618,740);
+}
+);
 background = {
 shapes = (
 {
@@ -16079,9 +16092,19 @@ metricRight = b;
 },
 {
 glyphname = f_f_i;
-lastChange = "2022-09-19 13:38:42 +0000";
+lastChange = "2023-02-22 10:42:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (238,0);
+},
+{
+name = caret_2;
+pos = (476,0);
+}
+);
 background = {
 shapes = (
 {
@@ -16338,9 +16361,19 @@ metricRight = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2022-09-19 13:43:37 +0000";
+lastChange = "2023-02-22 10:42:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (238,0);
+},
+{
+name = caret_2;
+pos = (476,0);
+}
+);
 background = {
 shapes = (
 {
@@ -16609,9 +16642,31 @@ metricRight = l;
 glyphname = f_h;
 kernLeft = f;
 kernRight = n;
-lastChange = "2022-08-31 18:59:58 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (124,0);
+},
+{
+name = bottom_2;
+pos = (489,0);
+},
+{
+name = caret_1;
+pos = (365.5,0);
+},
+{
+name = top_1;
+pos = (295,740);
+},
+{
+name = top_2;
+pos = (660,740);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -16723,7 +16778,7 @@ nodes = (
 );
 }
 );
-width = 731;
+width = 719;
 }
 );
 metricLeft = f;
@@ -16733,9 +16788,31 @@ metricRight = h;
 glyphname = f_i;
 kernLeft = f;
 kernRight = i;
-lastChange = "2022-08-31 19:04:19 +0000";
+lastChange = "2023-02-22 10:42:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (62,0);
+},
+{
+name = bottom_2;
+pos = (303,0);
+},
+{
+name = caret_1;
+pos = (241.5,0);
+},
+{
+name = top_1;
+pos = (233,740);
+},
+{
+name = top_2;
+pos = (474,740);
+}
+);
 background = {
 shapes = (
 {
@@ -16947,9 +17024,31 @@ metricRight = i;
 glyphname = f_l;
 kernLeft = f;
 kernRight = l;
-lastChange = "2022-08-31 19:01:24 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (65,0);
+},
+{
+name = bottom_2;
+pos = (312,0);
+},
+{
+name = caret_1;
+pos = (247.5,0);
+},
+{
+name = top_1;
+pos = (236,740);
+},
+{
+name = top_2;
+pos = (483,740);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -17037,7 +17136,7 @@ nodes = (
 );
 }
 );
-width = 495;
+width = 483;
 }
 );
 metricLeft = f;
@@ -17045,9 +17144,31 @@ metricRight = l;
 },
 {
 glyphname = q_j;
-lastChange = "2022-08-25 20:43:21 +0000";
+lastChange = "2023-02-22 10:42:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (114,0);
+},
+{
+name = bottom_2;
+pos = (459,0);
+},
+{
+name = caret_1;
+pos = (345.5,0);
+},
+{
+name = top_1;
+pos = (232,510);
+},
+{
+name = top_2;
+pos = (577,510);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -19903,7 +20024,7 @@ unicode = 93;
 glyphname = quotesinglbase;
 kernLeft = period;
 kernRight = period;
-lastChange = "2022-08-23 20:04:04 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
 layerId = m002;
@@ -19913,7 +20034,7 @@ pos = (-146,-634);
 ref = quoteright;
 }
 );
-width = 246;
+width = 166;
 }
 );
 metricLeft = quoteright;
@@ -19924,7 +20045,7 @@ unicode = 8218;
 glyphname = quotedblbase;
 kernLeft = period;
 kernRight = period;
-lastChange = "2022-08-23 20:04:04 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
 layerId = m002;
@@ -19938,7 +20059,7 @@ pos = (4,-634);
 ref = quoteright;
 }
 );
-width = 396;
+width = 316;
 }
 );
 metricLeft = quoteright;
@@ -19949,20 +20070,21 @@ unicode = 8222;
 glyphname = quotedblleft;
 kernLeft = quoteleft;
 kernRight = quoteleft;
-lastChange = "2022-08-23 20:04:24 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
 layerId = m002;
 shapes = (
 {
+pos = (-40,0);
 ref = quoteleft;
 },
 {
-pos = (150,0);
+pos = (110,0);
 ref = quoteleft;
 }
 );
-width = 396;
+width = 316;
 }
 );
 metricLeft = "=|quoteright";
@@ -19973,7 +20095,7 @@ unicode = 8220;
 glyphname = quotedblright;
 kernLeft = quoteright;
 kernRight = quoteright;
-lastChange = "2022-09-01 21:03:09 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
 layerId = m002;
@@ -19986,7 +20108,7 @@ pos = (150,0);
 ref = quoteright;
 }
 );
-width = 396;
+width = 316;
 }
 );
 metricLeft = quoteright;
@@ -19997,7 +20119,7 @@ unicode = 8221;
 glyphname = quoteleft;
 kernLeft = quoteleft;
 kernRight = quoteleft;
-lastChange = "2022-08-23 20:04:24 +0000";
+lastChange = "2023-02-22 10:42:32 +0000";
 layers = (
 {
 background = {
@@ -20005,27 +20127,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(194,562,o),
-(212,582,o),
-(212,606,cs),
-(212,653,o),
-(160,644,o),
-(160,692,cs),
-(160,715,o),
-(168,730,o),
-(213,769,cs),
-(222,776,o),
-(221,784,o),
-(216,788,cs),
-(211,792,o),
-(205,790,o),
-(197,784,cs),
-(135,740,o),
-(110,690,o),
-(110,629,cs),
-(110,588,o),
-(131,562,o),
-(164,562,cs)
+(154,562,o),
+(172,582,o),
+(172,606,cs),
+(172,653,o),
+(120,644,o),
+(120,692,cs),
+(120,715,o),
+(128,730,o),
+(173,769,cs),
+(182,776,o),
+(181,784,o),
+(176,788,cs),
+(171,792,o),
+(165,790,o),
+(157,784,cs),
+(95,740,o),
+(70,690,o),
+(70,629,cs),
+(70,588,o),
+(91,562,o),
+(124,562,cs)
 );
 }
 );
@@ -20035,31 +20157,31 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(230,562,o),
-(250,583,o),
-(250,609,cs),
-(250,646,o),
-(215,649,o),
-(215,681,cs),
-(215,705,o),
-(233,737,o),
-(286,769,cs),
-(293,773,o),
-(295,777,o),
-(295,781,cs),
-(295,790,o),
-(286,793,o),
-(274,786,cs),
-(201,750,o),
-(151,682,o),
-(151,617,cs),
-(151,585,o),
-(170,562,o),
-(201,562,cs)
+(190,562,o),
+(210,583,o),
+(210,609,cs),
+(210,646,o),
+(175,649,o),
+(175,681,cs),
+(175,705,o),
+(193,737,o),
+(246,769,cs),
+(253,773,o),
+(255,777,o),
+(255,781,cs),
+(255,790,o),
+(246,793,o),
+(234,786,cs),
+(161,750,o),
+(111,682,o),
+(111,617,cs),
+(111,585,o),
+(130,562,o),
+(161,562,cs)
 );
 }
 );
-width = 246;
+width = 166;
 }
 );
 metricLeft = "=|quoteright";
@@ -24194,9 +24316,6 @@ unicode = 731;
 );
 instances = (
 {
-axesValues = (
-400
-);
 instanceInterpolations = {
 m002 = 1;
 };
