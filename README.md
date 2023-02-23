@@ -6,10 +6,6 @@
 
 Instrument serif is designed for large sizes and offers a contemporary take on some of our favorite old style serifs.
 
-## Building the fonts
-
-[TBD]
-
 ## Language support
 
 The 374 latin glyphs that make up this font support 86 languages:
