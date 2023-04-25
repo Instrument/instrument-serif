@@ -1,6 +1,6 @@
 # Instrument Serif
 
-> A condensed, display serif designed for the [Instrument](https://instrument.com) brand, and open-sourced for you.
+> A condensed, display serif designed for the [Instrument](https://instrument.com) brand and open-sourced for you.
 
 ![Drag Racing](./docs/1-header.gif)
 
