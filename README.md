@@ -4,7 +4,7 @@
 
 ![Drag Racing](./docs/1-header.gif)
 
-Instrument serif is designed for large sizes and offers a contemporary take on some of our favorite old style serifs.
+Instrument Serif is designed for large sizes and offers a contemporary take on some of [our](https://instrument.com) favorite old style serifs.
 
 ## Language support
 
